@@ -62,7 +62,7 @@ Run
 python wrong_way_driver_detector.py
 ```
 
-#### 4. Vision-Based Lane-Level Navigation
+### 4. Vision-Based Lane-Level Navigation
 Understands lane geometry and generates navigation guidance for autonomous driving.
 
 Run
