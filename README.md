@@ -73,7 +73,7 @@ python lane.py
 
 ---
 
-### 4. Trash Detection System
+### 5. Trash Detection System
 
 Detects litter and waste objects in parks, streets, and other public environments.
 
